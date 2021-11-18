@@ -3,7 +3,7 @@
 main()
 {
     int a,b,c;
-   //clrscr();
+   //shitscr();
     printf("Enter number 1\n");
     scanf("%d",&a);
     printf("Enter number 2\n");
@@ -12,3 +12,5 @@ main()
     printf("subbtraction is     :%d\n", c);
   // getch();
 }
+
+
